@@ -12,7 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
     
     private String name;
-    public int num;
+
     /**
      * Get the value of name
      *
@@ -30,10 +30,7 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
-    
-    public void test(){
-        
-    }
+
 }
  
    
